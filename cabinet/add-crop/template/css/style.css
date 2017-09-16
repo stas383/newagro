@@ -1,0 +1,51 @@
+.table tbody tr td:last-child{
+    text-align: right;
+}
+body{
+    /*color: red;*/
+}
+.nav-sidebar li ul{
+    overflow: auto;
+    display: none;
+}
+.nav-sidebar li{
+    cursor: pointer;
+}
+.nav-sidebar li ul li{
+    list-style: none;
+}
+.nav-sidebar li ul li a{
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+.nav-sidebar li ul li a:hover{
+    background-color: #eeeeee;
+}
+
+h3{
+    text-align: center;
+}
+/*Кнопка в формах поцентру*/
+.btn-center button{
+    display: block;
+    margin: 0px auto;
+}
+.head-table-center tr th{
+    text-align: center !important;
+    vertical-align: middle !important;
+    border: 1px solid #dddddd;
+}
+.body-table-center{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.seeds_1, .fertilizers_1, .ppa_1, .seeds_2, .fertilizers_2, .ppa_2, .seeds_3, .fertilizers_3, .ppa_3, #add_material_1, #add_material_2, #add_material_3{
+    display: none;
+}
+
+.veg{
+    background: #d66901;
+    border-bottom: 1px solid #d66901;
+}

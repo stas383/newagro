@@ -1,0 +1,12 @@
+/*Кнопка в формах поцентру*/
+.btn-center button{
+    display: block;
+    margin: 0px auto;
+}
+
+/*Иконки при культуре на бизнес плане*/
+.designStatus img{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}

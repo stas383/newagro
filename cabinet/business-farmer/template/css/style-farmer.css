@@ -1,0 +1,38 @@
+/*Кнопка в формах поцентру*/
+.btn-center button{
+    display: block;
+    margin: 0px auto;
+}
+
+/*Иконки при культуре на бизнес плане*/
+.designStatus img{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+.level1{
+    padding-left: 30px!important;
+}
+.level2{
+    padding-left: 50px!important;
+}
+.level3{
+    padding-left: 70px!important;
+}
+.crop_date{
+    display: none;
+}
+.pr1{
+    display: table-cell;
+}
+.thead tr th{
+    max-width: 100px;
+    text-align: center;
+}
+#store_nt2{
+    display: none;
+}
+.table tr:hover{
+    background: rgba(0, 166, 90, 0.35);
+    cursor: pointer;
+}

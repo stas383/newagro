@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Avdira';
+    src: local('Avdira'), url('avdira.woff2') format('woff2'), url('avdira.woff') format('woff'), url('avdira.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avdira';
+    src: local('Avdira Italic'), local('AvdiraItalic'), url('avdiraitalic.woff2') format('woff2'), url('avdiraitalic.woff') format('woff'), url('avdiraitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Avdira';
+    src: local('Avdira Bold'), local('AvdiraBold'), url('avdirabold.woff2') format('woff2'), url('avdirabold.woff') format('woff'), url('avdirabold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avdira';
+    src: local('Avdira Bold Italic'), local('AvdiraBoldItalic'), url('avdirabolditalic.woff2') format('woff2'), url('avdirabolditalic.woff') format('woff'), url('avdirabolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}

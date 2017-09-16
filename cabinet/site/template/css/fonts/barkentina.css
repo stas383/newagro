@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Barkentina';
+    src: local('Barkentina 1'), url('barkentina1.woff2') format('woff2'), url('barkentina1.woff') format('woff'), url('barkentina1.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+

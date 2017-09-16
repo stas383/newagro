@@ -1,0 +1,23 @@
+.banner{
+	margin-top: 150px;
+	height: 250px;
+	background-color: #73bc43;
+	margin-bottom: 50px;
+	box-shadow:  0 0 61px -18px #000;
+}
+.banner h1{
+	font-size: 30pt;
+	font-family: "Century Gothic", serif;
+	color: #ffffff;
+	text-align: center;
+	width: 80%;
+	margin-top: 7%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.post-content {
+	font-family: 'Roboto Slab';
+	font-weight: 300;
+	font-style: normal;
+	font-size: 11pt;
+}

@@ -1,0 +1,8 @@
+.alertInfo{
+    position: fixed;
+    bottom: 55px;
+    right: 20px;
+}
+.widthDropDown{
+    width: auto !important;
+}
